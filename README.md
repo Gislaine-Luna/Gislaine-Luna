@@ -24,5 +24,4 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Gislaine-Luna=anuraghazra&theme=dark&show_icons=true)
 ![](https://komarev.com/ghpvc/?Gislaine-Luna=your-github-username&label=PROFILE+VIEWS)
