@@ -35,10 +35,12 @@
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
 
 <br>
-<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gislaine-Luna)](https://github.com/anuraghazra/github-readme-stats)
-
+ ### Estatísticas do GitHub:
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gislaine-Luna&layout=compact)
+
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gislaine-Luna)](https://github.com/anuraghazra/github-readme-stats)
