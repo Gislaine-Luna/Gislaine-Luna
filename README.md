@@ -3,7 +3,7 @@
 <br>
 
 ### Sobre Mim
-💻 **Em desenvolvimento:** Aprimorando minhas habilidades em **HTML,** **CSS** e **JavaScript** com projetos práticos e focados em Front-end e Back-end.
+💻 **Em desenvolvimento:** Aprimorando minhas habilidades com projetos práticos e focados em Front-end e Back-end.
 
 🤝 **Colaborações:** Adoraria colaborar em projetos inovadores ou simples para adquirir experiência prática e agregar valor às equipes.
 
