@@ -15,34 +15,55 @@
 
 ⚡**Curiosidades:** Amo tecnologia e sou movida pela curiosidade de explorar o desconhecido – seja em novos projetos, hobbies ou aprendizados.
 <br>
+<br>
+<br>
 
-### Vamos nos conectar?
+<p align="center">
+  <strong>Vamos nos conectar?</strong>
+</p>
 
-<a href="gilunadigital@gmail.com" target="_blank"> <img align="left" alt="Gmail" width="42px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+
+<p align="center">
+  <a href="mailto:gilunadigital@gmail.com" target="_blank">
+    <img alt="Gmail" width="42px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+  <a href="http://www.linkedin.com/in/gislaine-luna-b6297b31a" target="_blank">
+    <img alt="LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/gislaineluna_/" target="_blank">
+    <img alt="Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733558.png"/>
+  </a>
+</p>
 
 <br>
 
-<a href="http://www.linkedin.com/in/gislaine-luna-b6297b31a" target="_blank"> <img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" /> </a>
+<p align="center">
+  <strong>Habilidades:</strong>
+</p>
 
-<br>
-
-<a href="https://www.instagram.com/gislaineluna_/" target="_blank"> <img align="left" alt="Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733558.png" /> </a>
-
-<br>
-
-### Habilidades:
+<p align="center">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)">
-<img src="https://img.shields.io/badge/node-323330?style=for-the-badge&logo=node">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
 
 <br>
 
- ### Estatísticas do GitHub:
-<br>
+<p align="center">
+  <strong>Estatísticas do GitHub:</strong>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
-
-<br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gislaine-Luna)](https://github.com/anuraghazra/github-readme-stats)
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8" />
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Gislaine-Luna" />
+      </a>
+    </td>
+  </tr>
+</table>
