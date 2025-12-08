@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="mailto:gilunadigital@gmail.com" target="_blank">
-    <img alt="Gmail" width="42px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <a href="http://www.linkedin.com/in/gislaine-luna-b6297b31a" target="_blank">
     <img alt="LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>
@@ -42,11 +42,11 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 <br>
@@ -58,7 +58,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gislaine-Luna&langs_count=8" />
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
