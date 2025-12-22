@@ -19,19 +19,9 @@
 ---
 
 <p align="center">
-  <strong>Vamos nos conectar?</strong>
-</p>
-
-<p align="center">
-  <a href="mailto:gilunadigital@gmail.com" target="_blank">
-    <img alt="Gmail" width="42px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-  <a href="http://www.linkedin.com/in/gislaine-luna-b6297b31a" target="_blank">
-    <img alt="LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/gislaineluna_/" target="_blank">
-    <img alt="Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733558.png"/>
-  </a>
+  <a href="mailto:gilunadigital@gmail.com" target="_blank"><img alt="Gmail" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" style="margin:0 10px;"/></a>
+  <a href="https://www.linkedin.com/in/gislaine-luna-b6297b31a" target="_blank"><img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40" style="margin:0 10px;"/></a>
+  <a href="https://www.instagram.com/gislaineluna_/" target="_blank"><img alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/733/733558.png" width="40" style="margin:0 10px;"/></a>
 </p>
 
 ---
@@ -53,16 +43,18 @@
 ---
 
 <p align="center">
-  <strong>Estatísticas do GitHub:</strong>
+  <strong>📊 Estatísticas do GitHub:</strong>
 </p>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gislaine-Luna&langs_count=8&layout=compact" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Gislaine-Luna&show_icons=true" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gislaine-Luna&langs_count=8&layout=compact&theme=radical" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Gislaine-Luna&show_icons=true&theme=radical" />
+      </td>
+    </tr>
+  </table>
+</div>
