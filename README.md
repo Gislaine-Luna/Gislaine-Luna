@@ -21,7 +21,7 @@
 <p align="center">
   <a href="mailto:gilunadigital@gmail.com" target="_blank"><img alt="Gmail" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" style="margin:0 10px;"/></a>
   <a href="https://www.linkedin.com/in/gislaine-luna-b6297b31a" target="_blank"><img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40" style="margin:0 10px;"/></a>
-  <a href="https://www.instagram.com/gislaineluna_/" target="_blank"><img alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/733/733558.png" width="40" style="margin:0 10px;"/></a>
+  <a href="https://www.instagram.com/dra.gislaineluna/" target="_blank"><img alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/733/733558.png" width="40" style="margin:0 10px;"/></a>
 </p>
 
 ---
